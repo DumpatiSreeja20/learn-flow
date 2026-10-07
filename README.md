@@ -41,6 +41,6 @@ LearnFlow is a full-stack web app where creators can post educational videos, an
 ## 🙋‍♂️ Author
 
 **Varun Kotha**  
-GitHub: [varun-bunny](https://github.com/varun-bunny)  
-LinkedIn: [linkedin.com/in/varun-kotha](https://www.linkedin.com/in/varun-kotha)
+GitHub: [varun-bunny](https://github.com/DumpatiSreeja20/)  
+LinkedIn: [linkedin.com/in/varun-kotha](https://www.linkedin.com/in/sreeja-dumpati/)
 
